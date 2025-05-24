@@ -14,7 +14,10 @@ const el = {
   y: qs(".lttr--Y"),
   o2: qs(".lttr--O2"),
   u: qs(".lttr--U"),
-
+  s: qs(".lttr--S")
+  a: qs("lttr--A")
+  n: qs("lttr--N")
+  a2: qs("lttr--A2")
   lineLeft: qs(".line--left"),
   lineRight: qs(".line--rght"),
 
